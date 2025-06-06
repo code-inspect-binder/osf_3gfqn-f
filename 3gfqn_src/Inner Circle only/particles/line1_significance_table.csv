@@ -1,0 +1,10 @@
+"","BrE","CanE","IrE","NZE"
+"(Intercept)",1,1,1,1
+"DirObjLettLength",1,1,1,1
+"DirObjDefiniteness",1,1,1,1
+"DirObjGivenness",0,0,1,0
+"DirObjConcreteness",1,0,1,0
+"DirObjThematicity",1,1,0,1
+"DirectionalPP",1,1,1,1
+"Semantics",1,1,1,1
+"Surprisal.P",1,1,1,1

@@ -1,0 +1,10 @@
+"","BrE","CanE","HKE","IndE","IrE","JamE","NZE","PhlE","SgE"
+"(Intercept)",1,0,0,0,1,0,1,1,0
+"logWeightRatio",1,1,1,1,1,1,1,1,1
+"RecPron",1,1,1,1,1,1,1,0,1
+"ThemeBinComplexity",1,0,0,0,1,0,0,0,1
+"ThemeHeadFreq",0,0,0,0,0,0,0,0,0
+"ThemePron",0,0,0,0,0,0,0,0,0
+"ThemeDefiniteness",1,0,0,0,0,1,0,1,0
+"RecGivenness",0,0,1,0,0,0,0,0,0
+"RecHeadFreq",0,0,0,1,0,0,0,1,0
